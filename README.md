@@ -1,9 +1,9 @@
 <h1 align="center">
-      Jobs Database
+      💼 Jobs Database
       <br /></h1>
 <p>This project examines the 2023 data job market, with a focus on Data Analyst positions. It highlights key insights into the highest-paying roles, the most sought-after skills, and the best skills to prioritize for career growth.</p>
 
-<h2>Case Study Queries</h2>
+<h2>🔎 Case Study Queries</h2>
 <ol>
   <li>What are the 4 most common jobs?</li>
   <li>What are the top 5 average paying Data-Related jobs?</li>
@@ -14,19 +14,19 @@
   <li>What are the most optimal skills to learn?</li>
 </ol>
 
-<h2> Tool I Used </h2>
+<h2>💻 Tool I Used </h2>
 <ul>
   <li><b>SQL: </b>Perform queries on the job database.</li>
   <li><b>MySQL: </b>Database management system, perfect for managing job posting data.</li>
   <li><b>Python: </b>Create graph visualizations based on SQL queries.</li>
-  <li><b>Spyder: Interactive environment for data analysis and visualization using Python.</b></li>
-  <li><b>GitHub: Version control & Share project results.</b></li>
+  <li><b>Spyder: </b>Interactive environment for data analysis and visualization using Python.</li>
+  <li><b>GitHub: </b>Version control & Share project results.</li>
 </ul>
 
-<h2>Entity Relationship Diagram</h2>
+<h2>ℹ️ Entity Relationship Diagram</h2>
 <img alt="ERD" src="./ERD.png"/>
 
-<h2>The Analysis</h2>
+<h2>📊 The Analysis</h2>
 <h3>1. Top 4 most common jobs</h3>
 
 ```sql
@@ -150,7 +150,7 @@ LIMIT 10;
 <p>The most optimal skills for data analysts include Hugging Face, Unreal, Drupal, ggplot2, MXNet, npm, Rust, Workfron, SQLite, Pheonix.</p>
 <img alt="outputPy7" src="./outputs_Py/7.png"/>
 
-<h2>Conclusion</h2>
+<h2>📍 Conclusion</h2>
 <p>From the analysis, several general insights emerged:</p>
 <ol>
 <li><b>Top 4 Most Common Jobs:</b> The most common jobs in the data field are Data Analyst, Data Engineer, Data Scientist, and Business Analyst.</li>
